@@ -1,0 +1,2 @@
+# JavaProject-Online-Food-Ordering-System
+The project Online Food Ordering System is developed on Java and Sql. The main purpose of this system is to sell food in online. The project intends different types of forms  containing different option for the users like buying and selling food. In this application, customers can give orders from any place and pay cash on delivery.  Once the user place the details of the food available, the customers can buy that food by ordering it.  
